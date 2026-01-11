@@ -107,6 +107,7 @@ This project is open source and available under the MIT License.
 
 Remember, this is about building positive habits while having fun. Complete quests at your own pace and enjoy watching your adventure map grow!
 
----
+## Coming Soon 
+Web-Version
 
 *Happy adventuring! 🧙‍♂️✨*
