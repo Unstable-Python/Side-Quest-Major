@@ -1,0 +1,8 @@
+# Desktop Adventure Map - Requirements
+# This project uses only Python standard library modules
+# No external dependencies required for the MVP
+
+# For future enhancements, you might want to add:
+# pygame>=2.1.0  # For more advanced graphics and animations
+# pillow>=9.0.0  # For image processing and custom icons
+# requests>=2.28.0  # For online features or updates
